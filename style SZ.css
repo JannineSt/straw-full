@@ -1,0 +1,115 @@
+ <style>
+       
+         header {
+            background-image: url('http://resim.manzara.gen.tr/arka-plan-resimleri-40-800x600.jpg');
+  
+              background-repeat: repeat-x;
+              background-position: 450%;
+       
+  }
+        body {
+        background-image: url(http://www.serialzone.cz/images/pozadi/pb2017.jpg);
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        
+      }
+        .content {
+            display: block;
+            width: 47%;
+            margin-left: 470px;
+            padding-left: 25px;
+            padding-right: 25px;
+            background-color: #90AAD5;
+      }     
+      
+        .autor {background: #ff0000;
+          height: 40px;
+          position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 0px;
+    text-align: center;
+    border-top: solid 1px #143467;
+    border-bottom: solid 1px #143467;
+          }
+
+          li {
+            color: white;
+          font-family: 'Helvetica'; 
+          position: relative;
+    float: left;
+    height: 24px;
+    text-decoration: none;
+    border-right: 1px solid #143467;
+    padding: 12px 24px 2px; 
+                }
+                
+
+        .zdroj {background: #7495ca;
+          color: black;
+          font-family: 'Helvetica';
+          font-size: 11px;
+          padding: 10px 0px 0px 5px; 
+          height: 24px; 
+      }
+
+      a {
+        color: black;
+        }
+
+  
+         i, blockquote, ol, footer, li, p {
+          font-family: 'Helvetica';
+          text-align: justify;
+          font-size: 17px;
+          font-weight: normal;
+          line-height:  100%;
+       
+      }
+           .zanr {
+          color: white;
+         font-family: 'Helvetica';
+          display: block;
+            font-size: 11px;
+                 font-weight: normal;
+                 position: relative;
+                 left: 550px;   
+      }
+      
+         blockquote {
+          border-top-width: center;
+        }
+      
+         h1 {
+          color: white;
+          font-size: 25px;
+          font-family: 'Helvetica';
+          display: block;
+          font-weight: bold;
+          position: justify;
+                 
+      }
+         h2 {
+         color: white;
+          font-family: 'Helvetica';
+          display: block;
+          font-size: 20px;
+          font-weight: normal;
+          position: justify;
+      }
+         footer {
+          background-image: linear-gradient(to right, #90AAD5, white);
+              display: normal;
+              color: darkblue;
+              width: 47%;
+              padding-left: 500px;
+  }
+}
+  </style>
